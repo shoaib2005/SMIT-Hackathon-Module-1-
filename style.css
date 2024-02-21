@@ -1,0 +1,7 @@
+card_c{
+    display: flex;
+}
+card_h{
+    display: flex;
+    justify-content: center;
+}
